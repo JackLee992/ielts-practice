@@ -70,6 +70,31 @@ People prefer stability because it gives them a sense of security. Generally, a 
 
 Change should be seen as positive because it can create more opportunities for people. Those who are stuck in poverty or are not satisfied with their current situation often need change to improve their lives. Through change, they can develop new skills and gain better career prospects. For example, many university students from poor rural areas have changed their lives through education and hard work.
 
+## Complete Essay (Session 02 Final)
+
+### Introduction
+
+It is true that some people prefer stability in both their society and personal lives. This essay will explain why some people want things to stay the same and why change should be regarded as something positive.
+
+### Body 1
+
+People prefer stability because it gives them a sense of security. Generally, a stable job and a fixed lifestyle mean predictable income and lower risks. As a result, people feel less stressed and can plan their future more easily. For example, many young people want to become civil servants because these jobs are usually stable and long-term.
+
+### Body 2
+
+Change should be seen as positive because it can create more opportunities for people. Those who are stuck in poverty or are not satisfied with their current situation often need change to improve their lives. Through change, they can develop new skills and gain better career prospects. For example, many university students from poor rural areas have changed their lives through education and hard work.
+
+### Conclusion
+
+In conclusion, although it is reasonable that most people would like to stay the same, change is still needed to bring more opportunities.
+
+## Rules Saved in Session 02
+
+1. `stay the same` — the 不能省，固定搭配
+2. 结论要简单呼应两侧问题，不能只提一边
+3. `most of people` → `most people`（无限定词时不加 of）
+4. `it is understandable that why` 语法重复，二选一：that 或 why
+
 ## Self-Check
 
 - Body 1 only answers question 1: yes
