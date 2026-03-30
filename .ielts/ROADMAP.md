@@ -3,9 +3,17 @@
 Assumption set for this roadmap:
 
 - Exam type: General Training
-- Timeline: 8 weeks
+- Exam date: 2026-06-14
+- Timeline: ~10 weeks (2026-03-30 to 2026-06-14)
 - Study budget: 60-90 minutes per day
-- Primary goal: stable Writing 7.0-level habits
+- Primary goal: stable Writing Band 7 by exam date
+
+## Key Milestones
+
+- **2026-04-05 (本周末)**: Mock Test 1 — establish writing score baseline
+- **2026-05-10**: Mock Test 2 — verify Stage 3 timed stability
+- **2026-06-07**: Mock Test 3 — final dress rehearsal (1 week before exam)
+- **2026-06-14**: IELTS General Training Exam
 
 ## Outcome
 
