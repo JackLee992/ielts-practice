@@ -42,6 +42,12 @@ Success for Phase 1:
 - reduce obvious grammar pattern errors
 - move Task 2 closer to 40 minutes
 
+## Speaking
+
+- Estimated level: Band 6.5-7 (italki mock test, 2026-03-30)
+- Main issue: occasionally goes off-topic
+- Rule: pause after the question, confirm the topic before answering
+
 ## Current Focus
 
 - Task 2 body building
