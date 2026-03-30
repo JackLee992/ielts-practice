@@ -88,6 +88,51 @@ Change should be seen as positive because it can create more opportunities for p
 
 In conclusion, although it is reasonable that most people would like to stay the same, change is still needed to bring more opportunities.
 
+## Introduction (Added After Session 01)
+
+### Your Draft
+
+It is true that most people prefer stability instead of changes both in their personal lives and scoial relationships. Although there are certain reasons of choosing stability like stable life style and healthier mental states, making changes can also make more benefits in some senario.
+
+### Errors Found
+
+- `scoial` → `social` (spelling)
+- `instead of changes` → `rather than change` (collocation)
+- `reasons of choosing` → `reasons for choosing` (preposition)
+- `make more benefits` → `bring more benefits` (collocation)
+- `in some senario` → delete (vague + spelling)
+- `stable life style` → `a stable lifestyle` (article + spelling)
+- Second sentence lists reasons — introduction should only preview, not explain
+
+### Coach-Corrected Model
+
+It is true that many people prefer stability rather than change in both their personal lives and their wider society. There are understandable reasons why some people choose to keep things the same, but change can also bring significant benefits. This essay will discuss both perspectives.
+
+### Rules Saved
+
+1. Introduction does not list reasons — reasons belong in the body paragraphs
+2. Use `bring` not `make` with benefits, change, opportunities
+
+## Full Essay (Cycle 1 Complete)
+
+### Introduction
+
+It is true that many people prefer stability rather than change in both their personal lives and their wider society. There are understandable reasons why some people choose to keep things the same, but change can also bring significant benefits. This essay will discuss both perspectives.
+
+### Body 1
+
+People prefer stability because it gives them a sense of security. Generally, a stable job and a fixed lifestyle mean predictable income and lower risks. As a result, people feel less stressed and can plan their future more easily. For example, many young people want to become civil servants because these jobs are usually stable and long-term.
+
+### Body 2
+
+Change should be seen as positive because it can create more opportunities for people. Those who are stuck in poverty or are not satisfied with their current situation often need change to improve their lives. Through change, they can develop new skills and gain better career prospects. For example, many university students from poor rural areas have changed their lives through education and hard work.
+
+### Conclusion
+
+In conclusion, although it is understandable that some people prefer things to stay the same, change is still important because it can bring new opportunities and improve people's lives.
+
+---
+
 ## Rules Saved in Session 02
 
 1. `stay the same` — the 不能省，固定搭配
