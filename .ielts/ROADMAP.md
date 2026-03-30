@@ -1,23 +1,42 @@
-# IELTS General Training Writing Roadmap
+# IELTS General Training Full-Score Roadmap
 
-Assumption set for this roadmap:
+## Exam Info
 
-- Exam type: General Training
+- Exam type: General Training (机考)
 - Exam date: 2026-06-14
+- Overall target: Band 7.5
 - Timeline: ~10 weeks (2026-03-30 to 2026-06-14)
-- Study budget: 60-90 minutes per day
-- Primary goal: stable Writing Band 7 by exam date
+- Study budget: 60-90 min/day (workdays), 90-120 min/day (weekends)
+
+## Current Baselines (2026-03-30)
+
+| Module | Current Level | Target | Gap | Risk |
+|---|---|---|---|---|
+| Writing Task 1 | ~6.5 | 7.0 | 0.5 | Low |
+| Writing Task 2 | ~5.5 | 7.0 | 1.5 | High |
+| Listening | ~5.5-6.0 | 7.0 | 1.0-1.5 | Medium-High |
+| Reading | ~6.0-6.5 | 7.0 | 0.5-1.0 | Medium |
+| Speaking | ~6.0-6.5 | 7.0 | 0.5-1.0 | Medium-Low |
+
+## Weekly Time Allocation
+
+| Module | % of study time | Focus |
+|---|---|---|
+| Writing | 40% | Task 2 body control, full essay to 250 words |
+| Listening | 30% | Spelling execution, distractor control |
+| Reading | 20% | TFNG rules, Matching consolidation |
+| Speaking | 10% | Weekly italki + fluency self-check |
 
 ## Key Milestones
 
-- **2026-04-05 (本周末)**: Mock Test 1 — establish writing score baseline
-- **2026-05-10**: Mock Test 2 — verify Stage 3 timed stability
-- **2026-06-07**: Mock Test 3 — final dress rehearsal (1 week before exam)
+- **2026-04-05 (本周末)**: Mock Test 1 (全科) — establish score baseline
+- **2026-05-10**: Mock Test 2 — verify timed stability
+- **2026-06-07**: Mock Test 3 — final dress rehearsal
 - **2026-06-14**: IELTS General Training Exam
 
 ## Outcome
 
-This roadmap is designed to move you from "can sometimes write" to "can repeatedly complete Task 1 and Task 2 with control."
+This roadmap covers all four modules. Writing is the primary focus. Listening is the secondary focus. Reading and Speaking are maintenance tracks.
 
 It is not a motivation board. It is the execution route we will follow in this repo.
 
