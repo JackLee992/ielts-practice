@@ -148,6 +148,44 @@ companies
 注意：直接加s（y在a后）
 例句：Many companies offer good salaries.
 
+12
+
+dishwasher
+
+dishwasher
+
+合成词（dish+washer）
+
+13
+
+purchased
+
+purchased
+
+正式用词，代替bought
+
+14
+
+retailer
+
+retailer
+
+零售商，常用搭配：one of your retailers
+
+📝 新增词解析
+12. dishwasher
+正确拼写：d-i-s-h-w-a-s-h-e-r
+记忆方法：dish（碗）+ washer（清洗机）
+例句：The dishwasher stopped working after only a few days.
+13. purchased
+正确拼写：p-u-r-c-h-a-s-e-d
+记忆方法：比bought更正式，投诉信必用
+例句：I purchased it from one of your retailers two weeks ago.
+14. retailer
+正确拼写：r-e-t-a-i-l-e-r
+记忆方法：retail（零售）+ er
+例句：I bought it from one of your retailers.
+
 ✅ 写作后检查清单
 rather（不是ranther）
 Furthermore（首字母大写F）
@@ -160,4 +198,7 @@ descendants（des-cen-dants）
 well-known（连字符）
 company（有p）
 companies（直接加s）
+dishwasher（dish+washer）
+purchased（正式购买，投诉信用）
+retailer（零售商，one of your retailers）
 
