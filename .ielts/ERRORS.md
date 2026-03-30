@@ -2,6 +2,50 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-03-30] Task 1 — verb collocation with replace/change
+
+**Mistake**: `change a new one` instead of `replace it with a new one`
+**Root cause**: direct translation from Chinese 换一个
+**Rule**: Use `replace X with Y` — never `change a new one`
+**Examples**: replace it with a new one / replace the item with a functioning model
+**Retest date**: 2026-04-02
+**Status**: open
+
+## [2026-03-30] Task 1 — verb collocation with bring/make
+
+**Mistake**: `make more benefits` instead of `bring more benefits`
+**Root cause**: direct translation
+**Rule**: Use `bring` with benefits, change, opportunities, results — not `make`
+**Examples**: bring benefits / bring opportunities / bring significant change
+**Retest date**: 2026-04-02
+**Status**: open
+
+## [2026-03-30] Task 1 — preposition before time expressions
+
+**Mistake**: `at last Sunday` / `on last Sunday`
+**Root cause**: over-applying preposition rules
+**Rule**: No preposition before `last`, `next`, `this` + time word
+**Examples**: last Sunday / next week / this morning (no at/on/in)
+**Retest date**: 2026-04-02
+**Status**: open
+
+## [2026-03-30] Task 1 — formal vocabulary gap
+
+**Mistake**: Using `bought`, `change`, `short of hands` in formal complaint letter
+**Root cause**: passive vocabulary — knows words but cannot retrieve under pressure
+**Rule**: In formal letters use: `purchased` / `replace` / `short-staffed` / `at your earliest convenience`
+**Drill**: Before each Task 1, review the 5 core formal letter phrases
+**Retest date**: 2026-04-02
+**Status**: open
+
+## [2026-03-30] Introduction — listing reasons in intro paragraph
+
+**Mistake**: Included specific reasons (stable lifestyle, mental states) in the introduction
+**Root cause**: strategy — not clear on what intro vs body should do
+**Rule**: Introduction only does two things: background sentence + preview of both sides. Reasons belong in body paragraphs only.
+**Retest date**: 2026-04-01
+**Status**: open
+
 ## [2026-03-30] Writing Task 2 body expansion
 
 **Mistake**: Ideas are listed in notes but do not expand into a full paragraph during drafting.
