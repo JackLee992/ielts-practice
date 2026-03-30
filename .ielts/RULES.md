@@ -1,0 +1,31 @@
+# IELTS Writing Rules
+
+Only keep rules that are concrete enough to use during practice.
+
+## Task 2 structure rules
+
+1. Each body paragraph has one job only.
+2. Before writing English, decide what Body 1 answers and what Body 2 answers.
+3. If a sentence cannot be linked to the paragraph's center, cut it.
+
+## Body building rules
+
+1. First compress scattered notes into one central idea.
+2. Build the paragraph in this order: point -> reason -> result -> example.
+3. If the sentence feels too abstract, rewrite it using job, money, routine, pressure, education, or opportunity.
+
+## Language control rules
+
+1. Use a simpler correct sentence instead of a longer broken one.
+2. Protect common fixed patterns: `prefer to`, `worth doing`, `knock on`, `a lack of`, `As a result`.
+3. Do not chase advanced vocabulary before the sentence is stable.
+4. Prefer natural academic phrases over translated phrases: `gives them a sense of security`, `predictable income`, `feel less stressed`, `plan their future more easily`.
+5. Avoid spoken fillers in body paragraphs, such as `chill out`.
+
+## Anti-fear rule
+
+1. Start with one paragraph, not a full perfect essay.
+
+## Timing rule
+
+1. Task 2 practice should gradually move back toward 40 minutes, but structure accuracy comes first.
