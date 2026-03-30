@@ -2,6 +2,30 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-03-30] Task 1 — Yours faithfully spelling
+
+**Mistake**: `Your faithfully` instead of `Yours faithfully`
+**Root cause**: fixed expression not memorised
+**Rule**: Always `Yours faithfully` — never `Your faithfully`
+**Retest date**: 2026-04-02
+**Status**: open
+
+## [2026-03-30] Task 1 — date format
+
+**Mistake**: `Feb,2nd` instead of `2 February` or `February 2nd`
+**Root cause**: mixing Chinese/informal date habits
+**Rule**: In formal letters: `2 February` or `February 2nd` — no comma after month
+**Retest date**: 2026-04-02
+**Status**: open
+
+## [2026-03-30] Task 1 — word count strategy
+
+**Mistake**: Only ~100 words, one item only
+**Root cause**: not planning enough content before writing
+**Rule**: Before writing, count your content points. Add a second item + a confirmation request sentence to reach 150 words.
+**Retest date**: 2026-04-02
+**Status**: open
+
 ## [2026-03-30] Task 1 — verb collocation with replace/change
 
 **Mistake**: `change a new one` instead of `replace it with a new one`
