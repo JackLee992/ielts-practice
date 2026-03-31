@@ -226,3 +226,12 @@ Review every morning before writing. Two clean days in a row = retire the item.
 | Yours faithfully | Your faithfully | Yours faithfully |
 | staff | one staff | an employee (staff = uncountable) |
 | article | during pandemic | during a pandemic (singular countable needs article) |
+| date format | Feb,2nd | 2 February / February 2nd (no comma after month) |
+| purchased | bought (formal letter) | purchased |
+| short-staffed | short of hands | short-staffed |
+| at your earliest convenience | — | at your earliest convenience (formal request) |
+| facilities | devices (for venues) | facilities |
+| construction | instruction (建设) | construction |
+| community fitness centre | residential exercise center | community fitness centre |
+| regular exercise | fixed workout | regular exercise |
+| participate in | participate into | participate in |
