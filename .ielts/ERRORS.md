@@ -245,20 +245,26 @@ Review every morning before writing. Two clean days in a row = retire the item.
 
 ## Grammar Patterns (造句时也要注意)
 
-| Pattern | Wrong | Correct |
-|---------|-------|---------|
-| 代词数一致 | participate in it (things) | participate in them |
-| 主谓一致 | the usage do harm | the usage does harm |
-| any vs some | some job vacancy | any job vacancies (疑问/条件句用 any，名词复数) |
-| 固定短语 | in a short sight | in the short term |
-| because/so 不连用 | because...so | because OR so (二选一) |
-| 复合形容词连字符 | three months stay | three-month stay |
-| not only...but also | not only...but | not only...but also |
-| 冠词 + 单数可数名词 | at personal level | at a personal level |
-| 一个句子只用一个 modal | it is definitely can brings | it can definitely bring |
-| not only + 动词结构 | is not only affect | not only affects |
-| 从句主谓一致 | which lead to (singular subject) | which leads to |
-| I would appreciate | I would be appreciate | I would appreciate it if |
-| since + 过去时 | since when meet | since we last met |
-| a lot of / many | a lot drawbacks | many drawbacks / a lot of drawbacks |
-| 词性：名词位置 | economic develop | economic development |
+掌握标准：连续答对 3 次 → 标记为 ✓ 掌握，退出练习池。答错重置为 0。
+
+| Pattern | Wrong | Correct | 答对次数 | 状态 |
+|---------|-------|---------|---------|------|
+| 代词数一致 | participate in it (things) | participate in them | 0 | 练习中 |
+| 主谓一致（单数主语） | the usage do harm | the usage does harm | 0 | 练习中 |
+| The number of + 复数 → 单数动词 | The number of students have | The number of students has | 0 | 练习中 |
+| any vs some | some job vacancy | any job vacancies (疑问/条件句用 any) | 0 | 练习中 |
+| 固定短语 | in a short sight | in the short term | 0 | 练习中 |
+| because/so 不连用 | because...so | because OR so (二选一) | 1 | 练习中 |
+| 复合形容词连字符 | three months stay | three-month stay | 1 | 练习中 |
+| not only 句首倒装 | Not only he failed | Not only did he fail | 0 | 练习中 |
+| not only...but also 配对 | not only...but | not only...but also | 0 | 练习中 |
+| 冠词 + 单数可数名词 | at personal level | at a personal level | 0 | 练习中 |
+| 一个句子只用一个 modal | it is definitely can brings | it can definitely bring | 0 | 练习中 |
+| not only + 动词结构 | is not only affect | not only affects | 0 | 练习中 |
+| 从句主谓一致 | which lead to (singular subject) | which leads to | 0 | 练习中 |
+| I would appreciate it if | I would be appreciate | I would appreciate it if (it 不能省) | 0 | 练习中 |
+| since + 过去时 | since when meet | since we last met | 1 | 练习中 |
+| a lot of / many | a lot drawbacks | many drawbacks / a lot of drawbacks | 0 | 练习中 |
+| 不可数名词 + 单数动词 | a lot informations are | a lot of information is | 0 | 练习中 |
+| suggest that sb do | suggested me to do | suggested that I do (虚拟语气) | 0 | 练习中 |
+| 词性：名词位置 | economic develop | economic development | 0 | 练习中 |
