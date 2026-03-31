@@ -257,3 +257,8 @@ Review every morning before writing. Two clean days in a row = retire the item.
 | 冠词 + 单数可数名词 | at personal level | at a personal level |
 | 一个句子只用一个 modal | it is definitely can brings | it can definitely bring |
 | not only + 动词结构 | is not only affect | not only affects |
+| 从句主谓一致 | which lead to (singular subject) | which leads to |
+| I would appreciate | I would be appreciate | I would appreciate it if |
+| since + 过去时 | since when meet | since we last met |
+| a lot of / many | a lot drawbacks | many drawbacks / a lot of drawbacks |
+| 词性：名词位置 | economic develop | economic development |
