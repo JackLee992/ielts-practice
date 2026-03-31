@@ -38,12 +38,12 @@
 ### Tuesday 2026-03-31 ← TODAY
 **Morning (10 min)**: 看昨天听力错题，回答两句：trap 是什么 / final answer signal 是什么
 
-**Evening (50-60 min)**:
-- Listening 30 min: Part 3 multiple choice 1 组，标出 but/actually/however/in fact/so
-- Writing 20-25 min: 把周一最稳的中文四句翻成英文 body（不跑题、不断链）
+**Evening (60-75 min)**:
+- Writing 40 min: Task 1 ×2（投诉信 / 请求信各 1 篇，计时 20 min 各），写完对照 ERRORS.md 自查
+- Error review 15 min: 回看 ERRORS.md，逐条确认今天写作中有没有重犯，标注
 - Speaking 10 min: Part 1 话题 4-5 题，每题 20-30 秒
 
-**Minimum**: 至少完成 1 个英文 body
+**Minimum**: 至少完成 1 篇 Task 1 + 过一遍 ERRORS.md
 
 ---
 
