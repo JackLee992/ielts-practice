@@ -2,7 +2,8 @@
 
 **Source**: Synced from Feishu Wiki (openclaw_wiki) on 2026-03-31
 **Exam**: IELTS General Training, 2026-06-14
-**This week's main line**: 听力主攻，写作支撑，口语补连续样本，阅读保状态
+**This week's main line**: 写作主攻，听力支撑，口语补连续样本，阅读保状态
+**Recite protocol**: ERRORS.md Daily Recite List 每天 2-3 次（早起 + 午间/下午 + 睡前），拼写听写 + 固定搭配造句，连续 2 天干净才退役
 
 ---
 
@@ -47,6 +48,11 @@
 ---
 
 ### Wednesday 2026-04-01
+**Recite ×3**:
+- 早起（5 min）: 听写 Daily Recite List 拼写栏全部，不看答案
+- 午间/下午（5 min）: 固定搭配造句 — 从 Recite List 随机抽 5 项各造一句
+- 睡前（5 min）: 再听写错过的词，默念今天出错的搭配 3 遍
+
 **Morning (10 min)**: 听写 10 个高频错词：
 camera / hospital / competition / flooding / agriculture / maps / taxation / destruction / dentist / weekend
 
@@ -61,6 +67,10 @@ camera / hospital / competition / flooding / agriculture / maps / taxation / des
 ---
 
 ### Thursday 2026-04-02
+**Recite ×2**:
+- 早起（5 min）: 听写 Daily Recite List 拼写栏全部
+- 睡前（5 min）: 固定搭配造句 — 5 项，出错项重写 2 遍
+
 **Morning (10 min)**: 快速回顾规则：
 - Two answers means two confirmations.
 - Mentioned is not recommended.
@@ -76,6 +86,11 @@ camera / hospital / competition / flooding / agriculture / maps / taxation / des
 ---
 
 ### Friday 2026-04-03
+**Recite ×3**:
+- 早起（5 min）: 听写全部拼写
+- 下午写作前（3 min）: 默念今天要用的搭配（replace/bring/allow/in the long run）
+- 睡前（5 min）: 造句 5 项 + 错项重写
+
 **Morning (10 min)**: 回看本周听力错题，挑 3 题说出为什么错 + 下次怎么防
 
 **Evening (45-60 min)**:
@@ -88,6 +103,10 @@ camera / hospital / competition / flooding / agriculture / maps / taxation / des
 ---
 
 ### Saturday 2026-04-04
+**Recite ×2**:
+- 早起（5 min）: 听写全部拼写
+- 午间（5 min）: 造句 5 项，重点考本周最高频错误
+
 **Long block (90-120 min)**:
 - Listening 45-60 min: GT Listening full mock 1 套（新题）
 - Review 25-30 min: 分 Part 1-20 / Part 21-40 分别记错因类型 + 一条规则
@@ -98,6 +117,10 @@ camera / hospital / competition / flooding / agriculture / maps / taxation / des
 ---
 
 ### Sunday 2026-04-05
+**Recite ×2**:
+- 早起（5 min）: 听写全部拼写 — 连续 2 天干净的项目今日退役
+- 午间（5 min）: 造句 — 本周出错 ≥2 次的搭配各造 2 句
+
 **Long block (90-120 min)**:
 - Review 25-30 min: 听力留 3 条最有用规则，写作留 1 条，口语留 1 条
 - Reading 20 min: 新题迁移验证，TFNG 或 completion，不做整套

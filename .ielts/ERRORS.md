@@ -187,3 +187,42 @@ Use one entry per repeated or high-value mistake.
 **Rule**: Add to tomorrow's dictation: people / mortality / pandemic / medical / impacts / exercise
 **Retest date**: 2026-04-01
 **Status**: open
+
+---
+
+# Daily Recite List
+
+Review every morning before writing. Two clean days in a row = retire the item.
+
+## Spelling (听写 — write without looking)
+
+| Word | Common wrong form |
+|------|------------------|
+| exercise | excerice / excercise |
+| countries | contries |
+| result | reuslt |
+| cause | casue |
+| foreign | foregin |
+| midnight | mid-night |
+| health | heath |
+| pandemic | pandamic |
+| mortality | mortility |
+| medical | medital |
+| people | poeple |
+| impacts | inpacts |
+
+## Fixed Expressions & Collocations (造句 — say or write one sentence each)
+
+| Item | Wrong form | Correct form |
+|------|-----------|-------------|
+| replace | change a new one | replace X with Y |
+| bring | make benefits | bring benefits / bring opportunities |
+| time expressions | at last Sunday | last Sunday / next week (no preposition) |
+| allow/let/make | makes...can / let...to | allow sb to do / let sb do / make sb do |
+| modal verb | can helps | can help (base form after modal) |
+| long run | for a long run | in the long run |
+| reasons | reasons of | reasons for |
+| do harm | do harm for | do harm to |
+| Yours faithfully | Your faithfully | Yours faithfully |
+| staff | one staff | an employee (staff = uncountable) |
+| article | during pandemic | during a pandemic (singular countable needs article) |
