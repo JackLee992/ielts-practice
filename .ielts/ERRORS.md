@@ -238,3 +238,16 @@ Review every morning before writing. Two clean days in a row = retire the item.
 | inquire whether | inquire that if | inquire whether |
 | looking forward to | looking forward for | looking forward to |
 | worth visiting | worth to visit | worth visiting (worth + V-ing, no to) |
+| in the short term | in a short sight | in the short term (fixed expression) |
+| any job vacancies | some job vacancy | any + plural in questions/conditions |
+| subject-verb agreement | the usage really do harm | singular subject → does harm |
+| available | avaliable | spelling (recurring) |
+
+## Grammar Patterns (造句时也要注意)
+
+| Pattern | Wrong | Correct |
+|---------|-------|---------|
+| 代词数一致 | participate in it (things) | participate in them |
+| 主谓一致 | the usage do harm | the usage does harm |
+| any vs some | some job vacancy | any job vacancies (疑问/条件句用 any，名词复数) |
+| 固定短语 | in a short sight | in the short term |
