@@ -2,6 +2,19 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-04-01] ON THE CONTRARY VS BY CONTRAST
+
+**Mistake**: `On the contrary` used for simple contrast. 
+**Rule**: `On the contrary` is for denying/refuting a previous statement. Use `By contrast` or `In contrast` to compare two different facts or situations. 
+**Correct**: Stable life provides security. By contrast, making changes brings risks.
+
+## [2026-04-01] CONNECTOR TRAPS
+
+**Mistake**: `Despite + sentence`, `Regarding about`, `Even though...but` 
+**Rule 1**: `Despite` / `In spite of` + Noun/-ing (NOT a full sentence). 
+**Rule 2**: `Even though` and `but` cannot coexist. 
+**Rule 3**: `Regarding` / `Concerning` (NO 'about'). 
+
 ## [2026-04-01] THE TYPO HABIT - No self-checking
 
 **Mistake**: `avaliable`, `I staff`, `business` (instead of busy)
