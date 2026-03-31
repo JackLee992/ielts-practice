@@ -235,3 +235,6 @@ Review every morning before writing. Two clean days in a row = retire the item.
 | community fitness centre | residential exercise center | community fitness centre |
 | regular exercise | fixed workout | regular exercise |
 | participate in | participate into | participate in |
+| inquire whether | inquire that if | inquire whether |
+| looking forward to | looking forward for | looking forward to |
+| worth visiting | worth to visit | worth visiting (worth + V-ing, no to) |
