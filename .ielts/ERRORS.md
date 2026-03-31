@@ -2,6 +2,74 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-04-01] THE TYPO HABIT - No self-checking
+
+**Mistake**: `avaliable`, `I staff`, `business` (instead of busy)
+**Rule**: Typos are not 'accidents' in IELTS; they are band-score killers. 
+**Action**: MUST re-read every sentence before sending/finishing. 
+
+## [2026-04-01] SPELLING - AVAILABLE
+
+**Mistake**: `avaliable` 
+**Rule**: `available` — think of 'avail' + 'able'. There is an 'i' after 'l'. 
+**Correct**: available
+
+## [2026-04-01] THE 'SINCE' VS 'FOR' CONFUSION
+
+**Mistake**: `I am living here since two years ago.` 
+**Rule**: Use `since` with a specific point in time (e.g., 2022, last year). Use `for` with a duration of time (e.g., two years). Also, use the Present Perfect (Continuous) `have been living`. 
+**Correct**: I have been living here for two years / since two years ago (less common than for).
+
+## [2026-04-01] NO/ANY REDUNDANCY
+
+**Mistake**: `There is no any students` 
+**Rule**: Use `no + noun` OR `not any + noun`. NEVER `no any`. 
+**Correct**: There are no students / There aren't any students.
+
+## [2026-04-01] SUGGEST GRAMMAR TRAP
+
+**Mistake**: `suggested me that I should`, `suggested me to buy` 
+**Rule**: `suggest` NEVER takes a direct person object (no me/him/her). 
+**Correct**: suggested that I (should) do / suggested doing
+
+## [2026-04-01] THE ARTICLE DISASTER — a/the
+
+**Mistake**: `Starting business`, `went to library`, `on internet` 
+**Rule**: Singular countable nouns (business, library) and unique entities (internet) NEED an article. 
+**Correct**: a business / the library / the internet
+
+## [2026-04-01] HARSH REVIEW - Repeated low-level errors
+
+**Mistake**: `on last Sunday`, `make benefits`, `Not only he failed` (in verbal correction drill)
+**Rule 1**: NO preposition before last/next/this + time (Rule 51 reinforced)
+**Rule 2**: benefits ALWAYS with 'bring' (Rule 42 reinforced)
+**Rule 3**: Not only at the start of a sentence MUST trigger inversion (Rule 269 reinforced)
+
+## [2026-04-01] Intro — listing reasons (still present)
+
+**Mistake**: `pursue easy and comfortable life` in the introduction
+**Rule**: Introduction only does background + preview. Specific reasons (comfortable life) belong in Body 1 only. 
+
+## [2026-04-01] Verb pattern — choose to do
+
+**Mistake**: `choose keep same` 
+**Rule**: Use `choose to do` — never `choose do`
+
+## [2026-04-01] Noun count — countable 'life'
+
+**Mistake**: `pursue easy and comfortable life` 
+**Rule**: Life (as a type of living) is countable. Use `an easy and comfortable life`.
+
+## [2026-04-01] Spelling - Although / merits / easy
+
+**Mistake**: `Altough`, `metrits`, `eassy` 
+**Rule**: `Although` (h cannot be omitted), `merits` (no second t), `easy` (only one s)
+
+## [2026-04-01] Verb pattern - prefer to do
+
+**Mistake**: `prefer maintain stability` 
+**Rule**: Use `prefer to do` or `prefer doing` — never `prefer do` 
+
 ## [2026-03-30] Task 1 — Yours faithfully spelling
 
 **Mistake**: `Your faithfully` instead of `Yours faithfully`
