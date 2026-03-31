@@ -251,3 +251,9 @@ Review every morning before writing. Two clean days in a row = retire the item.
 | 主谓一致 | the usage do harm | the usage does harm |
 | any vs some | some job vacancy | any job vacancies (疑问/条件句用 any，名词复数) |
 | 固定短语 | in a short sight | in the short term |
+| because/so 不连用 | because...so | because OR so (二选一) |
+| 复合形容词连字符 | three months stay | three-month stay |
+| not only...but also | not only...but | not only...but also |
+| 冠词 + 单数可数名词 | at personal level | at a personal level |
+| 一个句子只用一个 modal | it is definitely can brings | it can definitely bring |
+| not only + 动词结构 | is not only affect | not only affects |
