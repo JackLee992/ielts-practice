@@ -129,3 +129,61 @@ Use one entry per repeated or high-value mistake.
 **Drill**: Rewrite one paragraph and allow the word `change` only once in the topic sentence.
 **Retest date**: 2026-03-31
 **Status**: open
+
+## [2026-03-31] Writing — high-frequency vocabulary errors in body paragraph
+
+**Mistake**: Used wrong words for common concepts: devices/instruction/residential/fixed/participate into
+**Root cause**: Chinese-English direct translation + vocabulary gap
+**Evidence**:
+- `devices` → should be `facilities` (sports venues are not devices)
+- `instruction` → should be `construction` (建设 = construction, not instruction)
+- `residential exercise center` → should be `community fitness centre`
+- `fixed workout` → should be `regular exercise`
+- `participate into` → should be `participate in`
+**Rule**: Before writing, mentally check: is this word for a place (facility), an action (construction), or a person (resident/community)?
+**Retest date**: 2026-04-03
+**Status**: open
+
+## [2026-03-31] Writing — sentence structure mix-up: allow/let/make
+
+**Mistake**: Mixed `makes citizens...can` instead of `allows citizens...to`
+**Root cause**: grammar instability under time pressure
+**Evidence**: `which makes citizens with low incomes can also enjoy` → `which allows citizens on lower incomes to exercise`
+**Rule**: allow sb to do / let sb do (no to) / make sb do (no to) — never mix these three
+**Retest date**: 2026-04-03
+**Status**: open
+
+## [2026-03-31] Spelling — exercise (recurring)
+
+**Mistake**: Spelled as `excerice` and `excercise` twice in one paragraph
+**Root cause**: spelling habit not fixed
+**Evidence**: Session 2026-03-31 body paragraph, sentences 1 and 3
+**Rule**: e-x-e-r-c-i-s-e. No double-c, no swapped letters.
+**Retest date**: 2026-04-01 (明日听写)
+**Status**: open
+
+## [2026-03-31] Writing — modal verb + base form (recurring)
+
+**Mistake**: `can helps` instead of `can help`
+**Root cause**: grammar instability, modal verb rule not automatic
+**Evidence**: Body 2 sentence 2: `can helps more people`
+**Rule**: After modal verbs (can/will/should/may), always use base form. No -s, no -ing, no -ed.
+**Retest date**: 2026-04-03
+**Status**: open
+
+## [2026-03-31] Writing — missing article before singular countable noun (recurring)
+
+**Mistake**: `during pandamic` → `during a pandemic`
+**Root cause**: article rule not applied under time pressure
+**Evidence**: Body 2 sentence 3
+**Rule**: Singular countable nouns always need an article (a/an/the). No exceptions for general statements.
+**Retest date**: 2026-04-03
+**Status**: open
+
+## [2026-03-31] Spelling — Body 2 high-frequency errors
+
+**Mistake**: poeple / mortility / pandamic / medital / inpacts
+**Root cause**: typing habits not corrected
+**Rule**: Add to tomorrow's dictation: people / mortality / pandemic / medical / impacts / exercise
+**Retest date**: 2026-04-01
+**Status**: open
