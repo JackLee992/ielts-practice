@@ -16,7 +16,15 @@ Only keep rules that are concrete enough to use during practice.
 
 ## Language control rules
 
-1. Use a simpler correct sentence instead of a longer broken one.
+1. **High-impact expressions to use (2026-04-01 Robots/Employment):**
+   - `result in a surge in unemployment` (导致失业率激增)
+   - `perceived as dangerous` (被视为危险)
+   - `be deployed to perform tasks` (被部署去执行任务)
+   - `adapt to new roles` (适应新角色)
+   - `suffer a significant loss of income` (收入遭受重大损失)
+   - `replace human staff with...` (用...取代人工)
+
+2. Use a simpler correct sentence instead of a longer broken one.
 2. Protect common fixed patterns: `prefer to`, `worth doing`, `knock on`, `a lack of`, `As a result`.
 3. Do not chase advanced vocabulary before the sentence is stable.
 4. Prefer natural academic phrases over translated phrases: `gives them a sense of security`, `predictable income`, `feel less stressed`, `plan their future more easily`.

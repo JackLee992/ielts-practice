@@ -51,6 +51,24 @@ Use one entry per repeated or high-value mistake.
 **Rule**: `suggest` NEVER takes a direct person object (no me/him/her). 
 **Correct**: suggested that I (should) do / suggested doing
 
+## [2026-04-01] LOOSE VS LOSE
+
+**Mistake**: `loose jobs`, `loose their positions`
+**Rule**: `lose` (verb) means to no longer have something. `loose` (adj) means not tight.
+**Correct**: lose jobs / lose weight / lose money.
+
+## [2026-04-01] SPELLING - DEFINITELY / DELIVERY
+
+**Mistake**: `definitelly`, `dilivery`, `resturants`, `roboots`
+**Rule**: definitely (de-finite-ly), delivery (de-liver-y), restaurants, robots.
+
+## [2026-04-01] EXPRESSION UPGRADE
+
+**Weak**: `lead to high unemployment rate` -> **Strong**: `result in a surge in unemployment`
+**Weak**: `salaries will drop deeply` -> **Strong**: `suffer a significant loss of income`
+**Weak**: `switch to a new occupation` -> **Strong**: `adapt to new roles`
+**Weak**: `be treated as dangerous` -> **Strong**: `be perceived as dangerous`
+
 ## [2026-04-01] THE ARTICLE DISASTER — a/the
 
 **Mistake**: `Starting business`, `went to library`, `on internet` 
