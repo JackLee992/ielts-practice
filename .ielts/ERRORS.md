@@ -2,7 +2,31 @@
 
 Use one entry per repeated or high-value mistake.
 
-## [2026-04-01] ON THE CONTRARY VS BY CONTRAST
+## [2026-04-02] SUBJECT-VERB AGREEMENT (GERUND)
+
+**Mistake**: `Embracing change enable...` 
+**Rule**: A gerund phrase (`Doing sth`) used as a subject is singular. The verb must add 's/es' in the present tense.
+**Correct**: Embracing change **enables** people to unlock their potential.
+
+## [2026-04-02] SPELLING & COLLOCATION: POTENTIAL
+
+**Mistake**: `exploite potential` 
+**Rule 1**: `exploit` (NO final 'e'). 
+**Rule 2**: The idiomatic collocation is `unlock / realize / reach` potential.
+**Correct**: unlock their potential
+
+## [2026-04-02] PREPOSITION TRAP: OPPORTUNITY
+
+**Mistake**: `opportunities of growth` 
+**Rule**: Use `for` with opportunity when followed by a noun or gerund for the purpose/result.
+**Correct**: opportunities **for** growth / opportunities **to** grow
+
+## [2026-04-02] PASSIVE VOICE: PERCEIVE
+
+**Mistake**: `should perceived as` 
+**Rule**: Modal verbs in passive voice require `be` + past participle.
+**Correct**: change **should be perceived** as positive.
+
 
 **Mistake**: `On the contrary` used for simple contrast. 
 **Rule**: `On the contrary` is for denying/refuting a previous statement. Use `By contrast` or `In contrast` to compare two different facts or situations. 
@@ -372,4 +396,8 @@ Review every morning before writing. Two clean days in a row = retire the item.
 | a lot of / many | a lot drawbacks | many drawbacks / a lot of drawbacks | 0 | 练习中 |
 | 不可数名词 + 单数动词 | a lot informations are | a lot of information is | 0 | 练习中 |
 | suggest that sb do | suggested me to do | suggested that I do (虚拟语气) | 0 | 练习中 |
+| 动名词作主语 | Embracing change enable | Embracing change enables (单数) | 1 | 练习中 |
+| unlock potential | exploite potential | unlock their potential | 1 | 练习中 |
+| opportunities for | opportunities of growth | opportunities for growth | 1 | 练习中 |
+| be perceived as | should perceived as | should be perceived as | 1 | 练习中 |
 | 词性：名词位置 | economic develop | economic development | 0 | 练习中 |
