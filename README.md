@@ -48,6 +48,13 @@ docs/
 - All outputs are committed and pushed to GitHub after each session
 - Sessions are also archived to Feishu Wiki (openclaw_wiki)
 
+## Recent Activity (Week 01)
+
+| Date | Focus | Key Progress |
+|---|---|---|
+| 2026-04-02 | Task 2 Logic Drill | Mastered "Change vs. Stability" logic chain; Fixed gerund S-V agreement. |
+| 2026-04-01 | Spelling & Collocations | 100% accuracy on 11 core typos; Mastered Task 1 complaint openers. |
+
 ## Mock Test Schedule
 
 | Date | Purpose |
