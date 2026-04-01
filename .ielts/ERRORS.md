@@ -15,6 +15,12 @@ Use one entry per repeated or high-value mistake.
 **Rule 2**: `Even though` and `but` cannot coexist. 
 **Rule 3**: `Regarding` / `Concerning` (NO 'about'). 
 
+## [2026-04-01] FINAL TERMINATION ERROR
+
+**Mistake**: `enbrancing` (typo for embracing)
+**Rule**: User cannot self-correct under pressure or fatigue. 
+**Action**: Forced rest required when typos spike. 
+
 ## [2026-04-01] THE TYPO HABIT - No self-checking
 
 **Mistake**: `avaliable`, `I staff`, `business` (instead of busy)
