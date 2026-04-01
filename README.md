@@ -53,7 +53,9 @@ docs/
 | Date | Focus | Key Progress |
 |---|---|---|
 | 2026-04-02 | Task 2 Logic Drill | Mastered "Change vs. Stability" logic chain; Fixed gerund S-V agreement. |
-| 2026-04-01 | Spelling & Collocations | 100% accuracy on 11 core typos; Mastered Task 1 complaint openers. |
+| 2026-04-01 | Robots & Unemployment | Practiced Body 2; Refined "lose vs loose" and article usage. |
+| 2026-03-31 | Task 1 Openers | Mastered formal openers for complaint and inquiry letters. |
+| 2026-03-30 | Baseline Setup | Initial diagnostic and Week 01 plan synchronization. |
 
 ## Mock Test Schedule
 
