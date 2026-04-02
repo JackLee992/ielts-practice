@@ -28,6 +28,27 @@ Use one entry per repeated or high-value mistake.
 **Correct**: change **should be perceived** as positive.
 
 
+## [2026-04-02] TASK 1 — NAMED COURSE PHRASE
+
+**Mistake**: `the course of "Android development for everyone"`
+**Rule**: For a course title, use `the course "X"` or `"X" course`; avoid `course of`.
+**Correct**: `the course "Android Development for Everyone"`
+
+
+## [2026-04-02] TASK 1 — LOOK FORWARD TO
+
+**Mistake**: `I am looking forward for your reply`
+**Rule**: The fixed pattern is `look forward to` + noun/gerund. In formal letters, prefer `I look forward to your reply.`
+**Correct**: `I look forward to your reply.`
+
+
+## [2026-04-02] TASK 1 — HAVE THE CHANCE
+
+**Mistake**: `have not had chance`
+**Rule**: Countable noun needs the article `the` in this fixed phrase.
+**Correct**: `have not had the chance`
+
+
 **Mistake**: `On the contrary` used for simple contrast. 
 **Rule**: `On the contrary` is for denying/refuting a previous statement. Use `By contrast` or `In contrast` to compare two different facts or situations. 
 **Correct**: Stable life provides security. By contrast, making changes brings risks.

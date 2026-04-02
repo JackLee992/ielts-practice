@@ -11,7 +11,7 @@
 Based on imported writing records from March 2026:
 
 - Estimated overall writing level: around Band 6.0
-- Task 1: around Band 6.5
+- Task 1: around Band 6.0-6.5 after guided revision, not yet fully stable
 - Task 2: around Band 5.0-5.5
 
 ## Main Bottlenecks
@@ -22,6 +22,7 @@ Based on imported writing records from March 2026:
 4. Typos and spelling errors remain frequent enough to cost marks.
 5. Writing speed is too slow, especially in Task 2.
 6. Emotional barrier: fear of starting makes practice feel heavier than it should.
+7. Task 1 collocations and fixed phrases still need repetition before they become automatic.
 
 ## Strengths To Build On
 

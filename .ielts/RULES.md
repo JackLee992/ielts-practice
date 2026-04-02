@@ -30,6 +30,13 @@ Only keep rules that are concrete enough to use during practice.
 4. Prefer natural academic phrases over translated phrases: `gives them a sense of security`, `predictable income`, `feel less stressed`, `plan their future more easily`.
 5. Avoid spoken fillers in body paragraphs, such as `chill out`.
 
+## Task 1 request-letter frames
+
+1. `I am writing to ask for more information about...`
+2. `Could you please tell me more about...`
+3. `I look forward to your reply.`
+4. Named courses should be written as `the course "X"` or `"X" course`.
+
 ## Anti-fear rule
 
 1. Start with one paragraph, not a full perfect essay.
