@@ -9,11 +9,11 @@ Personal IELTS General Training writing practice repo for JackLee.
 - Writing target: Band 7.0
 - Overall target: Band 7.5
 
-## Current Baselines (2026-03-30)
+## Current Baselines (2026-04-02)
 
 | Module | Level |
 |---|---|
-| Writing Task 1 | ~6.5 |
+| Writing Task 1 | ~6.0-6.5 after guided revision |
 | Writing Task 2 | ~5.5 |
 | Listening | ~5.5-6.0 |
 | Reading | ~6.0-6.5 |
@@ -45,6 +45,7 @@ docs/
 - Repeated mistakes go into `.ielts/ERRORS.md`
 - Rules that work get promoted to `.ielts/RULES.md`
 - Weekly plan lives in `.ielts/WEEK-XX-PLAN.md`
+- Session notes capture the revision chain, not just the final answer
 - All outputs are committed and pushed to GitHub after each session
 - Sessions are also archived to Feishu Wiki (openclaw_wiki)
 
@@ -52,6 +53,7 @@ docs/
 
 | Date | Focus | Key Progress |
 |---|---|---|
+| 2026-04-02 | Task 1 Request Letter | Reworked an Android course inquiry into a clean formal letter; logged the revision chain and collocations. |
 | 2026-04-02 | Task 2 Logic Drill | Mastered "Change vs. Stability" logic chain; Fixed gerund S-V agreement. |
 | 2026-04-01 | Robots & Unemployment | Practiced Body 2; Refined "lose vs loose" and article usage. |
 | 2026-03-31 | Task 1 Openers | Mastered formal openers for complaint and inquiry letters. |
