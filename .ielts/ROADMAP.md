@@ -31,6 +31,7 @@
 
 - **2026-04-17 to 2026-04-18**: Checkpoint 1 — delayed baseline reset after the practice gap
 - **2026-04-19 to 2026-04-20**: delay decision window
+- **2026-04-29 to 2026-04-30**: month-end re-evaluation — decide whether to keep June 2026 or shift the main target to mid-September 2026
 - **2026-05-10**: Mock Test 2 — verify timed stability
 - **2026-06-07**: Mock Test 3 — final dress rehearsal
 - **2026-06-14**: IELTS General Training Exam
@@ -43,6 +44,7 @@
 - Writing is still the main score limiter.
 - Speaking is now a live risk and should not be treated as maintenance-only.
 - Listening is trending up, but the gains are still fragile.
+- For a stable Overall 7.5, the safest current fallback window is mid-September 2026 rather than June 2026.
 
 ## Outcome
 

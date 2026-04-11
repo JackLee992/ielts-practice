@@ -93,6 +93,21 @@ This means the ceiling for the June sitting is not set by Reading. It is mainly 
 - For a target of Overall 7.0, the current sitting is still possible but needs a clean restart week.
 - For a target of Overall 7.5 plus Writing 7.0, the current sitting is high risk.
 
+## Safest Exam Window For A Stable 7.5
+
+Based on the 2026-04-11 baseline, the safest window for a stable Overall 7.5 is no longer June 2026.
+
+- High-risk option: 2026-06-14
+- Aggressive but possible option if progress accelerates strongly: late August 2026
+- Safer window: 2026-09-05 to 2026-09-26
+- Preferred fallback if June is judged unrealistic at the next monthly review: mid-September 2026, ideally around 2026-09-12 to 2026-09-19
+
+Reason:
+
+- Writing and Speaking are still too unstable for a "stable 7.5" claim
+- the user needs not only score growth, but also repeated timed stability
+- the current prep state still needs a restart phase, a true score-building phase, and a timed-stability phase
+
 ## Checkpoint Window
 
 Use 2026-04-18 to 2026-04-20 as the next formal decision window.
@@ -103,6 +118,22 @@ Delay becomes likely if most of the following are still true by then:
 - Speaking mini mocks still sit around 5.5 with frequent restarts
 - Listening full mock still stays around 24-25/40
 - no fresh cross-module baseline has been rebuilt after the practice gap
+
+## Month-End Re-Evaluation Plan
+
+Run a second, more strategic review at the end of April 2026.
+
+- Re-evaluation window: 2026-04-29 to 2026-04-30
+- Purpose: decide whether the June 2026 sitting still makes sense for the stated 7.5 goal
+- Fallback option to consider if improvement is still too limited: move the exam target to mid-September 2026
+
+Mid-September becomes the recommended fallback if most of the following are still true at the end of April:
+
+- Writing Task 2 is still below clear Band 6.5 control
+- Speaking is still hovering around 5.5-6.0 with restart-heavy answers
+- Listening is not yet clearly above the mid-20s in full mocks
+- timed performance still drops well below untimed performance
+- the user is improving, but not fast enough to make a June 2026 "stable 7.5" realistic
 
 ## Default Planning Weights Until The Next Checkpoint
 
@@ -156,4 +187,5 @@ When planning the next study block:
 1. start from the module estimates in this file
 2. choose drills based on the risk ranking
 3. compare all new evidence against the 2026-04-18 to 2026-04-20 checkpoint
-4. update this snapshot or create a new dated snapshot when the baseline changes materially
+4. run the month-end review on 2026-04-29 to 2026-04-30 before deciding whether mid-September 2026 should become the new target window
+5. update this snapshot or create a new dated snapshot when the baseline changes materially
