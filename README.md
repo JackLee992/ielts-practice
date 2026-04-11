@@ -62,6 +62,7 @@ docs/
 
 | Date | Focus | Key Progress |
 |---|---|---|
+| 2026-04-11 | Restart block archived | Saved the 2026-04-11 to 2026-04-20 execution block into `.ielts/WEEK-02-PLAN.md`, including the checkpoint window and daily check-in format. |
 | 2026-04-11 | Cross-module assessment sync | Rebuilt the baseline from local notes plus a full Feishu wiki review; corrected Speaking downward, Reading upward, and Listening into a real trend line. |
 | 2026-04-02 | Task 1 Request Letter | Reworked an Android course inquiry into a clean formal letter; logged the revision chain and collocations. |
 | 2026-04-02 | Task 2 Logic Drill | Mastered "Change vs. Stability" logic chain; Fixed gerund S-V agreement. |
