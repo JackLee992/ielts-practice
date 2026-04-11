@@ -2,6 +2,19 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-04-11] SPELLING - STABILITY / PREDICTABLE
+
+**Mistake**: `stablity`, `predicatble`, `predicatable`
+**Rule**: These are now confirmed personal typo words and must be scanned in the last 20-30 seconds of writing.
+**Correct**: `stability`, `predictable`
+
+## [2026-04-11] EXPRESSION CONTROL - BE WILLING TO / TAKE OUT A LOAN
+
+**Mistake**: `have more willing to`, `take loan`
+**Rule 1**: Use `be willing to do`, not `have willing to`.
+**Rule 2**: Use the fixed expression `take out a loan`.
+**Correct**: `people are more willing to take out a loan`
+
 ## [2026-04-02] SUBJECT-VERB AGREEMENT (GERUND)
 
 **Mistake**: `Embracing change enable...` 

@@ -1,4 +1,4 @@
-# IELTS Writing Rules
+# IELTS Practice Rules
 
 Only keep rules that are concrete enough to use during practice.
 
@@ -44,3 +44,10 @@ Only keep rules that are concrete enough to use during practice.
 ## Timing rule
 
 1. Task 2 practice should gradually move back toward 40 minutes, but structure accuracy comes first.
+
+## Speaking fluency rules
+
+1. In Part 2 speaking, point to the topic in the first two sentences.
+2. Give one clear fact before giving opinion or background.
+3. If the sentence starts to break, switch to a shorter sentence instead of restarting.
+4. A stable answer is better than a longer answer with repeated hesitation.
