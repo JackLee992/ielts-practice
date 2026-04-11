@@ -27,6 +27,12 @@ Use one entry per repeated or high-value mistake.
 **Rule**: If the audio explicitly says `not`, `isn't`, `won't`, or an equivalent negative, eliminate that matching option immediately.
 **Evidence**: Q25 `developing fluency isn't any faster`
 
+## [2026-04-11] READING TFNG - NG IS NOT A SAFE GUESS
+
+**Mistake**: Choosing `NOT GIVEN` when the cause was actually confirmed across two linked sentences.
+**Rule**: Before choosing `NOT GIVEN`, name the exact missing detail. If you cannot name it, keep checking the linked sentence pair.
+**Evidence**: handwriting less often -> lack of practice -> spelling and punctuation problems
+
 ## [2026-04-02] SUBJECT-VERB AGREEMENT (GERUND)
 
 **Mistake**: `Embracing change enable...` 

@@ -58,3 +58,9 @@ Only keep rules that are concrete enough to use during practice.
 2. For questions about surprise, concern, prediction, or feeling, wait for stance markers before locking the answer.
 3. If the speaker directly negates an option, eliminate it immediately.
 4. In choose-two questions, do not stop after one attractive option. Collect two separately confirmed answers.
+
+## Reading TFNG rules
+
+1. If you want to choose `NOT GIVEN`, first name the exact missing detail.
+2. If the meaning is completed across two linked sentences, do not stop at the first sentence.
+3. `put that down to` can confirm a cause, not just state an opinion.
