@@ -15,6 +15,18 @@ Use one entry per repeated or high-value mistake.
 **Rule 2**: Use the fixed expression `take out a loan`.
 **Correct**: `people are more willing to take out a loan`
 
+## [2026-04-11] LISTENING PART 3 - MENTIONED TOPIC IS NOT THE ANSWER
+
+**Mistake**: Choosing an option because the topic was mentioned, even when the question was really asking about surprise, concern, prediction, or feeling.
+**Rule**: In Part 3 multiple choice, answer the question word first. Topic mention is not enough. Wait for evaluation or stance markers.
+**Evidence**: Q21-22 memory, Q29 note-taking, Q30 drifting away from emotional tone.
+
+## [2026-04-11] LISTENING NEGATIVE TRAP - DIRECT NEGATION CANCELS THE OPTION
+
+**Mistake**: Choosing an option even after the speaker directly rejected it with `not` or `isn't`.
+**Rule**: If the audio explicitly says `not`, `isn't`, `won't`, or an equivalent negative, eliminate that matching option immediately.
+**Evidence**: Q25 `developing fluency isn't any faster`
+
 ## [2026-04-02] SUBJECT-VERB AGREEMENT (GERUND)
 
 **Mistake**: `Embracing change enable...` 

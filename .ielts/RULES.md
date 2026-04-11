@@ -51,3 +51,10 @@ Only keep rules that are concrete enough to use during practice.
 2. Give one clear fact before giving opinion or background.
 3. If the sentence starts to break, switch to a shorter sentence instead of restarting.
 4. A stable answer is better than a longer answer with repeated hesitation.
+
+## Listening Part 3 rules
+
+1. Answer the question word, not the topic noun.
+2. For questions about surprise, concern, prediction, or feeling, wait for stance markers before locking the answer.
+3. If the speaker directly negates an option, eliminate it immediately.
+4. In choose-two questions, do not stop after one attractive option. Collect two separately confirmed answers.
