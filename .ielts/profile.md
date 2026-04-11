@@ -1,28 +1,32 @@
-# IELTS Writing Profile
+# IELTS Prep Profile
 
 ## Outcome
 
 - Exam type: IELTS General Training
+- Exam date: 2026-06-14
+- Overall target: Band 7.5
 - Target: Writing Band 7
-- Workspace role: daily practice home for writing drills, essays, rules, and reviews
+- Workspace role: daily practice home for all four modules, with writing still the main drill track
 
 ## Current Starting Point
 
-Based on imported writing records from March 2026:
+Calibrated on 2026-04-11 from local repo records plus a full Feishu wiki review:
 
-- Estimated overall writing level: around Band 6.0
-- Task 1: around Band 6.0-6.5 after guided revision, not yet fully stable
-- Task 2: around Band 5.0-5.5
+- Estimated overall level: around Band 6.0-6.5
+- Reading: around Band 6.5, with the strongest upside
+- Listening: around Band 6.0, improving but not yet stable
+- Speaking: around Band 5.5-6.0, weaker than the earlier repo estimate
+- Writing Task 1: around Band 6.0-6.5 after revision, not yet timed-stable
+- Writing Task 2: around Band 5.5-6.0 untimed
 
 ## Main Bottlenecks
 
-1. Task 2 body paragraphs often stall after the first idea.
-2. Double-question answers can drift or mix two jobs in one paragraph.
-3. Basic grammar is not stable enough under time pressure.
-4. Typos and spelling errors remain frequent enough to cost marks.
-5. Writing speed is too slow, especially in Task 2.
-6. Emotional barrier: fear of starting makes practice feel heavier than it should.
-7. Task 1 collocations and fixed phrases still need repetition before they become automatic.
+1. Task 2 body control and timing still break down under pressure.
+2. Speaking answers lose fluency through restarts, hesitation, and basic grammar slips.
+3. Listening loses marks on distractors, first-mention traps, spelling, and plural control.
+4. Reading concept-heavy question types still lag behind detail questions.
+5. Typos and fixed-phrase errors still cost marks in both writing and speaking.
+6. A one-week practice gap has increased re-entry friction.
 
 ## Strengths To Build On
 
@@ -30,31 +34,30 @@ Based on imported writing records from March 2026:
 - You already show structure awareness.
 - You respond well to explicit correction rules.
 - You can improve quickly once the task is reduced to a narrow drill.
+- Reading is no longer a weak-base module.
+- Listening is not a comprehension-collapse module; it is a precision-control module.
 
-## Phase 1 Goal
+## Current Priority Order
 
-Phase 1 is about becoming willing and able to write consistently.
-
-Success for Phase 1:
-
-- start writing without freezing
-- produce two clear Task 2 body paragraphs on demand
-- keep each body paragraph to one center
-- reduce obvious grammar pattern errors
-- move Task 2 closer to 40 minutes
-
-## Speaking
-
-- Estimated level: Band 6.5-7 (italki mock test, 2026-03-30)
-- Main issue: occasionally goes off-topic
-- Rule: pause after the question, confirm the topic before answering
+1. Writing Task 2
+2. Speaking fluency and grammar stability
+3. Listening accuracy control
+4. Reading concept-question maintenance
+5. Writing Task 1 timed consistency
 
 ## Current Focus
 
-- Task 2 body building
-- anti-off-topic control
-- basic sentence stability
-- typo control
+- Task 2 body building and 40-45 minute control
+- Speaking Part 2 and Part 3 fluency repair
+- Listening distractor and exact-form control
+- Reading headings, summary, and TFNG maintenance
+- typo and fixed-phrase control
+
+## Decision Gate
+
+- Next formal checkpoint: 2026-04-18 to 2026-04-20
+- Delay becomes likely if Task 2 is still unstable, Speaking stays around 5.5, and Listening full mocks stay around 24-25/40
+- See `.ielts/ASSESSMENT-2026-04-11.md` for the current source-of-truth baseline
 
 ## Working Principle
 

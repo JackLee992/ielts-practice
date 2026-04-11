@@ -8,35 +8,50 @@
 - Timeline: ~10 weeks (2026-03-30 to 2026-06-14)
 - Study budget: 60-90 min/day (workdays), 90-120 min/day (weekends)
 
-## Current Baselines (2026-03-30)
+## Current Baselines (2026-04-11)
 
 | Module | Current Level | Target | Gap | Risk |
 |---|---|---|---|---|
-| Writing Task 1 | ~6.5 | 7.0 | 0.5 | Low |
-| Writing Task 2 | ~5.5 | 7.0 | 1.5 | High |
-| Listening | ~5.5-6.0 | 7.0 | 1.0-1.5 | Medium-High |
-| Reading | ~6.0-6.5 | 7.0 | 0.5-1.0 | Medium |
-| Speaking | ~6.0-6.5 | 7.0 | 0.5-1.0 | Medium-Low |
+| Writing Task 1 | ~6.0-6.5 | 7.0 | 0.5-1.0 | Medium |
+| Writing Task 2 | ~5.5-6.0 untimed | 7.0 | 1.0-1.5 | High |
+| Listening | ~6.0 | 7.0 | 1.0 | Medium |
+| Reading | ~6.5 | 7.0 | 0.5 | Medium-Low |
+| Speaking | ~5.5-6.0 | 7.0 | 1.0-1.5 | High |
 
 ## Weekly Time Allocation
 
 | Module | % of study time | Focus |
 |---|---|---|
-| Writing | 40% | Task 2 body control, full essay to 250 words |
-| Listening | 30% | Spelling execution, distractor control |
-| Reading | 20% | TFNG rules, Matching consolidation |
-| Speaking | 10% | Weekly italki + fluency self-check |
+| Writing | 35% | Task 2 body control, timing, and sentence stability |
+| Speaking | 25% | restart reduction, Part 2 expansion, grammar repair |
+| Listening | 25% | distractor control, exact form, plural and spelling accuracy |
+| Reading | 15% | headings, summary, TFNG maintenance |
 
 ## Key Milestones
 
-- **2026-04-05 (本周末)**: Mock Test 1 (全科) — establish score baseline
+- **2026-04-17 to 2026-04-18**: Checkpoint 1 — delayed baseline reset after the practice gap
+- **2026-04-19 to 2026-04-20**: delay decision window
 - **2026-05-10**: Mock Test 2 — verify timed stability
 - **2026-06-07**: Mock Test 3 — final dress rehearsal
 - **2026-06-14**: IELTS General Training Exam
 
+## Current Reality Check
+
+- The repo baseline was recalibrated on 2026-04-11 after a full Feishu wiki review.
+- Practice momentum dropped after 2026-04-02, so the current state is closer to late Stage 1.5 than true Stage 2.
+- Reading is the strongest recent module.
+- Writing is still the main score limiter.
+- Speaking is now a live risk and should not be treated as maintenance-only.
+- Listening is trending up, but the gains are still fragile.
+
 ## Outcome
 
-This roadmap covers all four modules. Writing is the primary focus. Listening is the secondary focus. Reading and Speaking are maintenance tracks.
+This roadmap covers all four modules.
+
+Writing is still the primary focus.
+Speaking is now the second recovery module.
+Listening is the third priority because precision, not comprehension, is still leaking marks.
+Reading is the maintenance-plus-upside module.
 
 It is not a motivation board. It is the execution route we will follow in this repo.
 
