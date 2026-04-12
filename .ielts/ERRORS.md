@@ -2,6 +2,30 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-04-13] LISTENING PART 4 - CATEGORY/RESULT WORD VS EXAMPLE
+
+**Mistake**: Writing an example or nearby topic word instead of the category, result, or summary word that the note actually required.
+**Rule**: Before writing, decide whether the blank needs a category word, result word, cause, or example. If the sentence gives an example, do not copy it automatically.
+**Evidence**: `rats and other rodents`, `noise` instead of `pan`
+
+## [2026-04-13] READING TFNG - MAIN IDEA FIRST, MODIFIER SECOND
+
+**Mistake**: Rejecting a statement because of a small modifier difference even though the main idea clearly matched.
+**Rule**: Compare the main idea first. A small scene or timing modifier does not cancel a strong paraphrase unless it changes the meaning.
+**Evidence**: `predict problems on the road ahead` vs `anticipate hazards when you are driving`
+
+## [2026-04-13] READING TFNG - SCOPE PHRASES CHANGE THE WHOLE ANSWER
+
+**Mistake**: Missing the role of scope phrases such as `at any time`.
+**Rule**: When a statement includes `only`, `at any time`, `all`, `always`, `before`, or `after`, check every case the phrase covers.
+**Evidence**: local train / folding bike question
+
+## [2026-04-13] READING EVIDENCE LOCATION - STOP AT THE DIRECT MATCH
+
+**Mistake**: Skipping a direct evidence sentence and searching later detail lines instead.
+**Rule**: If the text already gives a direct `tool + purpose` or `thing + function` match, use it and stop there.
+**Evidence**: `tyre levers for mending punctures`
+
 ## [2026-04-12] SPEAKING PART 1 - DIRECT ANSWER FIRST
 
 **Mistake**: Starting with background or example before directly answering the Part 1 question.

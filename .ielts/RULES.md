@@ -67,6 +67,29 @@ Only keep rules that are concrete enough to use during practice.
 8. In computer-based multiple choice, keep the question focus minimal and close to the stem. Do not force a large paraphrase.
 9. If the question is already clear, use mental compression only. Short typed labels are for overload relief, not a required step.
 
+## Listening Part 4 rules
+
+1. Before writing, decide whether the blank needs a category word, a result word, a cause, or an example.
+2. If the sentence gives an example, do not automatically copy the example into the blank.
+3. If the note says `X and other Y`, the answer is likely a member of category `Y`.
+4. Use the last seconds to scan the spelling of nouns.
+
+## Listening review workflow (trial week)
+
+1. Each listening set should train one main target only.
+2. Part 3 target format: `question focus -> kill -> confirm`
+3. Part 4 target format: `blank type -> exact word -> spelling`
+4. After one set, first write four lines only:
+   - `This set trained:`
+   - `Wrong questions:`
+   - `Main trap:`
+   - `Saved rule:`
+5. Do not replay the whole set immediately after finishing.
+6. On the same day, replay only the wrong or unsure questions.
+7. During replay, do not chase the whole passage. Only confirm what type of answer was needed and why the original answer was wrong.
+8. On the next day, use a new short set to test the saved rule.
+9. Keep only one main listening rule from each set. Too many rules means nothing will stick.
+
 ## Reading TFNG rules
 
 1. If you want to choose `NOT GIVEN`, first name the exact missing detail.
@@ -76,3 +99,6 @@ Only keep rules that are concrete enough to use during practice.
 5. `FALSE` means the text gives the opposite meaning or clearly weakens the strong claim.
 6. Difficulty, quality, and frequency do not automatically answer popularity, preference, or importance.
 7. Do not use answer distribution to decide TFNG. Treat each question independently.
+8. Compare the main idea before small modifiers.
+9. Scope phrases such as `only`, `at any time`, `before`, `after`, `always`, and `all` can decide the answer.
+10. If the text gives a direct tool-purpose or thing-function match, stop there before searching later details.
