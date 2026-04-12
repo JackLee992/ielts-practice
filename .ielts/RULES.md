@@ -51,6 +51,9 @@ Only keep rules that are concrete enough to use during practice.
 2. Give one clear fact before giving opinion or background.
 3. If the sentence starts to break, switch to a shorter sentence instead of restarting.
 4. A stable answer is better than a longer answer with repeated hesitation.
+5. In Part 1, answer directly in the first sentence: `Yes, I do.`, `Not really.`, or `I prefer ... because ...`
+6. In short speaking answers, one sentence should do one main job only.
+7. Prefer stable natural chunks over translated phrases: `create opportunities`, `quality of life`, `what to study`, `what steps to follow`.
 
 ## Listening Part 3 rules
 
@@ -61,9 +64,15 @@ Only keep rules that are concrete enough to use during practice.
 5. Do not do blind full-set replays. First pass = do the set once. Second pass = replay only wrong or unsure questions.
 6. For each wrong listening question, log `question focus -> kill -> confirm -> saved rule`.
 7. Use the next day's new set to test the extracted rule instead of replaying the old set again.
+8. In computer-based multiple choice, keep the question focus minimal and close to the stem. Do not force a large paraphrase.
+9. If the question is already clear, use mental compression only. Short typed labels are for overload relief, not a required step.
 
 ## Reading TFNG rules
 
 1. If you want to choose `NOT GIVEN`, first name the exact missing detail.
 2. If the meaning is completed across two linked sentences, do not stop at the first sentence.
 3. `put that down to` can confirm a cause, not just state an opinion.
+4. Underline strong words in the statement first: `all`, `always`, `guarantee`, `need to`, `must`, `pay extra`.
+5. `FALSE` means the text gives the opposite meaning or clearly weakens the strong claim.
+6. Difficulty, quality, and frequency do not automatically answer popularity, preference, or importance.
+7. Do not use answer distribution to decide TFNG. Treat each question independently.

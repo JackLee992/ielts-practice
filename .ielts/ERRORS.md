@@ -2,6 +2,42 @@
 
 Use one entry per repeated or high-value mistake.
 
+## [2026-04-12] SPEAKING PART 1 - DIRECT ANSWER FIRST
+
+**Mistake**: Starting with background or example before directly answering the Part 1 question.
+**Rule**: In Part 1, answer in the first sentence with `Yes, I do.`, `Not really.`, or `I prefer ... because ...`
+**Evidence**: The self-learning answer only became stable after opening with `Not really.`
+
+## [2026-04-12] SPEAKING FLUENCY - ONE SENTENCE = ONE JOB
+
+**Mistake**: Packing too many ideas into one sentence with repeated `and`, which caused self-correction and grammar drift.
+**Rule**: In short speaking answers, each sentence should do one job only: answer, example, or result.
+**Evidence**: The changing-life answer became much more stable after being split into short sentences.
+
+## [2026-04-12] SPEAKING NATURAL CHUNKS - AVOID TRANSLATED PHRASES
+
+**Mistake**: Using translated phrases such as `make more opportunities`, `life quality`, `liked try`, and `what should I learn`.
+**Rule**: Prefer fixed natural chunks such as `create more opportunities`, `quality of life`, `liked trying`, `what to study`, and `what steps to follow`.
+**Evidence**: The three Part 1 answers became more fluent once translated phrases were replaced with stable chunks.
+
+## [2026-04-12] READING TFNG - STRONG WORDS MUST BE CHECKED
+
+**Mistake**: Missing how strong words such as `guarantees`, `need to`, and `pay extra` change the answer type.
+**Rule**: In TFNG, underline the strongest words in the statement first. Then ask whether the text confirms them, weakens them, or contradicts them.
+**Evidence**: `guarantees` vs `may`, `need to walk` vs `transported`, `pay extra` vs `fee covers equipment`
+
+## [2026-04-12] READING TFNG - POPULARITY IS NOT THE SAME AS DIFFICULTY
+
+**Mistake**: Treating `more challenging` as the opposite of `most popular`.
+**Rule**: If the text describes one feature, do not invent a second feature. Difficulty does not answer popularity.
+**Evidence**: Q11 thrill-seeker route
+
+## [2026-04-12] READING TEST BEHAVIOUR - DO NOT GUESS FROM ANSWER DISTRIBUTION
+
+**Mistake**: Avoiding `NOT GIVEN` or leaving a question blank because too many previous answers already looked like `NG`.
+**Rule**: IELTS answer order is not a clue. Judge each statement independently from the text.
+**Evidence**: Q10 was left blank after two earlier `NG` choices looked suspicious
+
 ## [2026-04-11] SPELLING - STABILITY / PREDICTABLE
 
 **Mistake**: `stablity`, `predicatble`, `predicatable`
