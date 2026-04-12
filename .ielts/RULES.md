@@ -58,6 +58,9 @@ Only keep rules that are concrete enough to use during practice.
 2. For questions about surprise, concern, prediction, or feeling, wait for stance markers before locking the answer.
 3. If the speaker directly negates an option, eliminate it immediately.
 4. In choose-two questions, do not stop after one attractive option. Collect two separately confirmed answers.
+5. Do not do blind full-set replays. First pass = do the set once. Second pass = replay only wrong or unsure questions.
+6. For each wrong listening question, log `question focus -> kill -> confirm -> saved rule`.
+7. Use the next day's new set to test the extracted rule instead of replaying the old set again.
 
 ## Reading TFNG rules
 
