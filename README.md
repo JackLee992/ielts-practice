@@ -33,7 +33,7 @@ Personal IELTS General Training practice repo for JackLee.
 ├── ASSESSMENT-2026-04-11.md   # Current cross-module snapshot and risk logic
 ├── profile.md          # Exam goals, current level, bottlenecks
 ├── ROADMAP.md          # 10-week full study plan
-├── WEEK-01-PLAN.md     # Current week plan
+├── WEEK-02-PLAN.md     # Current active week plan
 ├── ERRORS.md           # Repeated error log
 ├── RULES.md            # Working rules that have helped
 ├── WEEKLY_REVIEW.md    # Weekly progress review
@@ -55,6 +55,7 @@ docs/
 - Rules that work get promoted to `.ielts/RULES.md`
 - Weekly plan lives in `.ielts/WEEK-XX-PLAN.md`
 - Session notes capture the revision chain, not just the final answer
+- The most recent handoff for the next practice block lives in the newest session files plus `.ielts/WEEK-02-PLAN.md`
 - All outputs are committed and pushed to GitHub after each session
 - Sessions are also archived to Feishu Wiki (openclaw_wiki)
 
@@ -62,6 +63,7 @@ docs/
 
 | Date | Focus | Key Progress |
 |---|---|---|
+| 2026-04-13 | Writing + Speaking carryover block | Logged Session 09 and Session 10. Writing moved from "cannot expand a body" to a usable `detail -> result -> example` skeleton. Speaking moved from script-following to cue-based recall on a new Part 2 topic. Monday 2026-04-14 in `.ielts/WEEK-02-PLAN.md` was rewritten as a direct carryover correction day. |
 | 2026-04-11 | Restart block archived | Saved the 2026-04-11 to 2026-04-20 execution block into `.ielts/WEEK-02-PLAN.md`, including the checkpoint window and daily check-in format. |
 | 2026-04-11 | Cross-module assessment sync | Rebuilt the baseline from local notes plus a full Feishu wiki review; corrected Speaking downward, Reading upward, and Listening into a real trend line. |
 | 2026-04-02 | Task 1 Request Letter | Reworked an Android course inquiry into a clean formal letter; logged the revision chain and collocations. |
@@ -79,3 +81,11 @@ docs/
 | 2026-05-10 | Mock Test 2 — verify timed stability |
 | 2026-06-07 | Mock Test 3 — final dress rehearsal |
 | 2026-06-14 | IELTS Exam |
+
+## Next Start
+
+If practice resumes on 2026-04-14, start in this order:
+
+1. rewrite one corrected `office vs remote work` body paragraph
+2. do one new Part 2 topic in keyword-recall mode
+3. finish with one short Listening Part 4 precision set
