@@ -13,6 +13,8 @@ Only keep rules that are concrete enough to use during practice.
 1. First compress scattered notes into one central idea.
 2. Build the paragraph in this order: point -> reason -> result -> example.
 3. If the sentence feels too abstract, rewrite it using job, money, routine, pressure, education, or opportunity.
+4. In each body paragraph, at least one key sentence should go one step further: point -> reason -> result.
+5. Do not stop at naming an advantage. Add one short line showing why it matters or what it leads to.
 
 ## Language control rules
 
@@ -29,6 +31,12 @@ Only keep rules that are concrete enough to use during practice.
 3. Do not chase advanced vocabulary before the sentence is stable.
 4. Prefer natural academic phrases over translated phrases: `gives them a sense of security`, `predictable income`, `feel less stressed`, `plan their future more easily`.
 5. Avoid spoken fillers in body paragraphs, such as `chill out`.
+6. Natural result patterns are safer than forcing `because / so / therefore` into every sentence:
+   - `..., giving employees ...`
+   - `..., allowing them to ...`
+   - `..., which helps ...`
+   - `with ..., ...`
+7. Before writing on work / office / remote-work topics, review `.ielts/PHRASE_BANK.md` and reuse 2-3 natural expressions instead of inventing translated phrases.
 
 ## Task 1 request-letter frames
 

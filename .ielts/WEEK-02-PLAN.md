@@ -45,6 +45,28 @@ This is the format we will use for daily tracking.
 
 ---
 
+## Writing Upgrade Focus For This Week
+
+Main writing rule for this block:
+
+- do not stop at naming an advantage
+- in each body paragraph, make at least one sentence go `point -> reason -> result`
+
+Micro-drill format for each writing session:
+
+1. write one center sentence
+2. add one short reason
+3. add one short result using a natural shell such as `giving ...`, `allowing ...`, `which helps ...`, or `with ..., ...`
+4. check whether every sentence still serves the same paragraph center
+
+Target outcome by the next checkpoint:
+
+- the user can produce one body paragraph with one clear center
+- the paragraph includes at least one `point -> reason -> result` sentence
+- the paragraph does not turn into a list of unrelated advantages
+
+---
+
 ## Day-by-Day Plan
 
 ### Friday 2026-04-11
