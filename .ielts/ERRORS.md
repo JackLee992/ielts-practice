@@ -26,6 +26,18 @@ Use one entry per repeated or high-value mistake.
 **Rule**: If the text already gives a direct `tool + purpose` or `thing + function` match, use it and stop there.
 **Evidence**: `tyre levers for mending punctures`
 
+## [2026-04-13] WRITING FINAL-SCAN - TYPO WORDS IN FIXED FRAMES
+
+**Mistake**: Reaching a structurally correct body paragraph, but still losing marks on repeated typo-risk words during the final copy.
+**Rule**: When the paragraph logic is already correct, stop changing ideas. Use the last 10 seconds to scan only confirmed typo-risk words and verb anchors.
+**Evidence**: `coworkers`, `respond`, `delays`, `staff`
+
+## [2026-04-13] SPEAKING PART 2 - PAST STORY MUST STAY IN PAST TENSE
+
+**Mistake**: Starting a past experience clearly, but then drifting into present tense inside the answer.
+**Rule**: If the topic is a past event, keep the answer in simple past from start to finish: `worked`, `communicated`, `solved`, `fixed`.
+**Evidence**: `we communicate`, `we solve`
+
 ## [2026-04-12] SPEAKING PART 1 - DIRECT ANSWER FIRST
 
 **Mistake**: Starting with background or example before directly answering the Part 1 question.

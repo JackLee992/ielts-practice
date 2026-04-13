@@ -111,14 +111,26 @@ Target outcome by the next checkpoint:
 
 ### Monday 2026-04-14
 
-**Goal**: correction day
+**Goal**: correction day with direct carryover from 2026-04-13
 
-- Writing 25 min: rewrite the weakest body from 4/11-4/13
-- Listening 20 min: spelling / exact form / singular-plural repair
-- Speaking 15 min: Part 3 abstract answers, focus on no full restarts
-- Reading 15 min: one weak question-type set
+- Writing 25 min: rewrite the weakest `office vs remote work` body in 90-110 words
+  - keep one center only
+  - include `detail -> result -> example`
+  - use the last 10-15 seconds for typo scan only
+- Speaking 15 min: one new Part 2 topic in keyword-recall mode
+  - use 5 short function lines, not a full script
+  - first target = clear structure, not length
+- Listening 15-20 min: one short Part 4 precision set
+  - focus only on exact word, singular/plural, and spelling
+- Reading 10-15 min optional: short TFNG maintenance only if energy remains
 
-**Minimum**: weakest body rewrite + one short listening set
+**Morning start order**:
+
+1. Writing first
+2. Speaking second
+3. Listening third
+
+**Minimum**: one corrected body paragraph + one keyword-based Part 2 attempt + one short Part 4 set
 
 ---
 

@@ -37,6 +37,7 @@ Only keep rules that are concrete enough to use during practice.
    - `..., which helps ...`
    - `with ..., ...`
 7. Before writing on work / office / remote-work topics, review `.ielts/PHRASE_BANK.md` and reuse 2-3 natural expressions instead of inventing translated phrases.
+8. If a body paragraph is already structurally correct, do not keep rewriting the content. Spend the last 10 seconds scanning only known typo-risk words and verb anchors such as `reduces`, `allows`, `coworkers`, `respond`, and `delays`.
 
 ## Task 1 request-letter frames
 
@@ -62,6 +63,7 @@ Only keep rules that are concrete enough to use during practice.
 5. In Part 1, answer directly in the first sentence: `Yes, I do.`, `Not really.`, or `I prefer ... because ...`
 6. In short speaking answers, one sentence should do one main job only.
 7. Prefer stable natural chunks over translated phrases: `create opportunities`, `quality of life`, `what to study`, `what steps to follow`.
+8. In Part 2 answers about a past experience, keep the whole answer in simple past and avoid mixing `worked / communicated / solved` with present-tense verbs.
 
 ## Listening Part 3 rules
 
