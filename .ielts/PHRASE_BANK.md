@@ -36,6 +36,8 @@ Instead:
 - `solve problems more quickly`
 - `quicker responses`
 - `closer coordination among coworkers`
+- `clarify tasks immediately`
+- `avoid delays before they affect the whole project`
 
 ## Natural Result Shells
 
@@ -51,6 +53,7 @@ Instead:
 - `Remote work gives people more flexibility, allowing them to maintain a better work-life balance.`
 - `Working in an office improves teamwork, with quicker responses and closer coordination among coworkers.`
 - `Office-based work makes communication more direct, with face-to-face interaction helping staff solve problems more quickly.`
+- `Office-based work allows staff to clarify tasks immediately, which helps teams avoid delays before they affect the whole project.`
 
 ## Replace These Weak Or Translated Phrases
 
