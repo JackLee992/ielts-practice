@@ -83,6 +83,10 @@ Only keep rules that are concrete enough to use during practice.
 2. If the sentence gives an example, do not automatically copy the example into the blank.
 3. If the note says `X and other Y`, the answer is likely a member of category `Y`.
 4. Use the last seconds to scan the spelling of nouns.
+5. If the blank needs a topic, field, or concrete point, wait for the exact noun. Do not write a nearby vague word such as `important` if the real answer is a noun like `tourism`.
+6. If you cannot hear the synonym you expected, do not throw the sentence away. Listen for the core noun and the reason/result around it, then test whether that noun fits the blank.
+7. If the sentence describes danger, cause, or condition, identify the main event first and then the condition around it. The answer may be the condition noun, such as `rain`.
+8. If the speaker gives a broad category first and then narrows it, do not stop at the category word. Wait for the exact item that completes the blank, such as `blue` rather than `colours`.
 
 ## Listening review workflow (trial week)
 
@@ -99,6 +103,7 @@ Only keep rules that are concrete enough to use during practice.
 7. During replay, do not chase the whole passage. Only confirm what type of answer was needed and why the original answer was wrong.
 8. On the next day, use a new short set to test the saved rule.
 9. Keep only one main listening rule from each set. Too many rules means nothing will stick.
+10. If a replay answer feels correct only because you now remember it, do not count it as stable. Mark it as memory-supported and retest the same trap on a fresh set.
 
 ## Reading TFNG rules
 

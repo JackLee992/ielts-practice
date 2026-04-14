@@ -8,6 +8,36 @@ Use one entry per repeated or high-value mistake.
 **Rule**: Before writing, decide whether the blank needs a category word, result word, cause, or example. If the sentence gives an example, do not copy it automatically.
 **Evidence**: `rats and other rodents`, `noise` instead of `pan`
 
+## [2026-04-14] LISTENING PART 4 - EXACT NOUN VS VAGUE WORD
+
+**Mistake**: Writing a nearby descriptive word instead of the exact topic noun that the note needed.
+**Rule**: In Part 4 note completion, if the blank is completing a topic, field, object, or concrete point, wait for the exact noun. Do not stop at a vague word like `important`.
+**Evidence**: `important` instead of `tourism`
+
+## [2026-04-14] LISTENING PART 4 - DO NOT CHASE ONE EXPECTED SYNONYM
+
+**Mistake**: Holding too tightly to one expected synonym from the question stem, then mentally skipping the sentence when that synonym did not appear.
+**Rule**: If the expected synonym is missing, do not abandon the sentence. Rebuild the meaning from the core noun plus the surrounding reason/result and check whether that noun fits the blank.
+**Evidence**: Searching for a synonym of `encouraging`, missing `tourism has become an important source of revenue`
+
+## [2026-04-14] LISTENING PART 4 - MISS THE EVENT, MISS THE CONDITION
+
+**Mistake**: Not understanding the main event of the sentence, so the condition linked to it was also missed and the blank was left empty.
+**Rule**: When a sentence explains danger, cause, or condition, identify the main event first, then ask what makes it worse or more likely. The condition word may be the answer.
+**Evidence**: power lines causing electrocution, with `heavy rain` leading to the answer `rain`
+
+## [2026-04-14] LISTENING REPLAY - MEMORY SUCCESS IS NOT TRANSFER
+
+**Mistake**: Counting a replay item as repaired even though the correct answer was recalled from memory after repeated listening, not re-derived from the audio logic.
+**Rule**: If an answer only feels available because you now remember it, mark it as `memory-supported` and test the same trap again on a fresh set.
+**Evidence**: Q39 `noise` after repeated replay
+
+## [2026-04-14] LISTENING PART 4 - CATEGORY WORD IS NOT ALWAYS THE ANSWER
+
+**Mistake**: Hearing a broad category first and writing it down, even though the speaker later narrowed it to the exact item needed for the blank.
+**Rule**: If the speaker moves from a general group to one specific member, wait for the exact item that matches the blank.
+**Evidence**: `colours` instead of `blue`
+
 ## [2026-04-13] READING TFNG - MAIN IDEA FIRST, MODIFIER SECOND
 
 **Mistake**: Rejecting a statement because of a small modifier difference even though the main idea clearly matched.
