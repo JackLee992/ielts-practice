@@ -38,6 +38,24 @@ Use one entry per repeated or high-value mistake.
 **Rule**: If the speaker moves from a general group to one specific member, wait for the exact item that matches the blank.
 **Evidence**: `colours` instead of `blue`
 
+## [2026-04-15] LISTENING PART 4 - OVER-CORRECT INTO A BLANK
+
+**Mistake**: After trying to avoid early guessing, leaving the blank empty even when one answer already fits grammar, topic, and local meaning reasonably well.
+**Rule**: If one noun or item fits the blank clearly enough, write it. Do not require 100% confidence before committing.
+**Evidence**: blank instead of `desks`, `blue`, `temperature`
+
+## [2026-04-15] LISTENING PART 4 - UNKNOWN WORD CAN STILL BE THE ANSWER
+
+**Mistake**: Treating an unfamiliar noun as unusable and abandoning it instead of testing whether it fits the blank.
+**Rule**: In Part 4, an unknown word can still be the answer. If it sounds like the right noun or item for the blank, write it down and spell it as accurately as possible.
+**Evidence**: `vegan`, `chefs`, `journalists`
+
+## [2026-04-15] LISTENING - GUESSED RIGHT IS NOT STABLE
+
+**Mistake**: Counting a correct answer as secure even though it was mainly guessed, not derived from the audio.
+**Rule**: If an item was correct by guess, mark it as unstable and retest the same trap on a fresh set.
+**Evidence**: `reputation`
+
 ## [2026-04-13] READING TFNG - MAIN IDEA FIRST, MODIFIER SECOND
 
 **Mistake**: Rejecting a statement because of a small modifier difference even though the main idea clearly matched.
