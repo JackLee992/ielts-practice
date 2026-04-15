@@ -63,6 +63,7 @@ docs/
 
 | Date | Focus | Key Progress |
 |---|---|---|
+| 2026-04-15 | Listening transfer + task handoff | Logged Session 13, Session 14, and Session 15. Listening Part 4 errors were split more cleanly into attention, sentence focus, unknown-word tolerance, and spelling. The next execution order was fixed as `full Task 2 -> oral explanation -> short Reading -> Monday carryover drills`. |
 | 2026-04-13 | Writing + Speaking carryover block | Logged Session 09 and Session 10. Writing moved from "cannot expand a body" to a usable `detail -> result -> example` skeleton. Speaking moved from script-following to cue-based recall on a new Part 2 topic. Monday 2026-04-14 in `.ielts/WEEK-02-PLAN.md` was rewritten as a direct carryover correction day. |
 | 2026-04-11 | Restart block archived | Saved the 2026-04-11 to 2026-04-20 execution block into `.ielts/WEEK-02-PLAN.md`, including the checkpoint window and daily check-in format. |
 | 2026-04-11 | Cross-module assessment sync | Rebuilt the baseline from local notes plus a full Feishu wiki review; corrected Speaking downward, Reading upward, and Listening into a real trend line. |
@@ -84,8 +85,10 @@ docs/
 
 ## Next Start
 
-If practice resumes on 2026-04-14, start in this order:
+If practice resumes later on 2026-04-15, start in this order:
 
-1. rewrite one corrected `office vs remote work` body paragraph
-2. do one new Part 2 topic in keyword-recall mode
-3. finish with one short Listening Part 4 precision set
+1. write one full Task 2
+2. explain the Task 2 position orally
+3. do one short Reading maintenance drill
+4. rewrite the `office vs remote work` body paragraph from Monday's carryover
+5. do one new Part 2 topic in keyword-recall mode
