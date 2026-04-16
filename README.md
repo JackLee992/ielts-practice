@@ -63,6 +63,7 @@ docs/
 
 | Date | Focus | Key Progress |
 |---|---|---|
+| 2026-04-16 | Listening recovery + exam window judgement | Logged Session 16 and Session 17. Listening Part 4 now looks more like `cold start`, `result-word selection`, `spelling stability`, and `word-form accuracy` than broad comprehension failure. A dated planning judgement was also saved: June 14 remains high risk for a stable 7.5, while mid-to-late September 2026 looks safer. |
 | 2026-04-15 | Listening transfer + task handoff | Logged Session 13, Session 14, and Session 15. Listening Part 4 errors were split more cleanly into attention, sentence focus, unknown-word tolerance, and spelling. The next execution order was fixed as `full Task 2 -> oral explanation -> short Reading -> Monday carryover drills`. |
 | 2026-04-13 | Writing + Speaking carryover block | Logged Session 09 and Session 10. Writing moved from "cannot expand a body" to a usable `detail -> result -> example` skeleton. Speaking moved from script-following to cue-based recall on a new Part 2 topic. Monday 2026-04-14 in `.ielts/WEEK-02-PLAN.md` was rewritten as a direct carryover correction day. |
 | 2026-04-11 | Restart block archived | Saved the 2026-04-11 to 2026-04-20 execution block into `.ielts/WEEK-02-PLAN.md`, including the checkpoint window and daily check-in format. |
