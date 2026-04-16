@@ -56,6 +56,18 @@ Use one entry per repeated or high-value mistake.
 **Rule**: If an item was correct by guess, mark it as unstable and retest the same trap on a fresh set.
 **Evidence**: `reputation`
 
+## [2026-04-16] LISTENING PART 4 - MEANING CAUGHT, SPELLING NOT SECURE
+
+**Mistake**: Treating an answer as a comprehension failure when the meaning was actually heard, but the spelling was unstable.
+**Rule**: If the answer type and meaning are clear, write the word down and label the problem correctly as spelling instability instead of broad non-comprehension.
+**Evidence**: `wheal` instead of `whale`, `thery` instead of `ferry`
+
+## [2026-04-16] LISTENING PART 4 - RIGHT IDEA, WRONG WORD FORM
+
+**Mistake**: Hearing the correct concept but writing the wrong grammatical form, such as a noun when the note needed an adjective.
+**Rule**: In note completion, check the word's job in the sentence before locking it. If the blank is describing a noun, the answer may need an adjective form such as `rectangular`, not the noun `rectangle`.
+**Evidence**: `rectangle` instead of `rectangular`
+
 ## [2026-04-13] READING TFNG - MAIN IDEA FIRST, MODIFIER SECOND
 
 **Mistake**: Rejecting a statement because of a small modifier difference even though the main idea clearly matched.

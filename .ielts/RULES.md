@@ -90,6 +90,8 @@ Only keep rules that are concrete enough to use during practice.
 9. Do not over-correct into a blank. If one answer already fits the grammar, topic, and local meaning, write it even if confidence is not perfect.
 10. Do not require full sentence comprehension before writing. If an unfamiliar word still sounds like the noun or exact item that fits the blank, write it down and move on.
 11. If an answer is correct only because of guessing, do not count it as stable. Mark it as unstable and retest the same trap on a fresh set.
+12. If the meaning is clear but the spelling is shaky, still write the answer and tag it mentally as `meaning caught, spelling not secure`. Do not mislabel it as a comprehension problem.
+13. In note completion, check the grammatical job of the blank before writing. If the blank is describing something, the answer may need an adjective form rather than the noun form.
 
 ## Listening review workflow (trial week)
 
